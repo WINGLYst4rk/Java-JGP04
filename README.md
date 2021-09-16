@@ -8,7 +8,7 @@
 
 ### Este repositório está separado por capítulos
 
-**OBS: **  O primeiro capítulo é mais conceitual por isso já começa no segundo.
+**OBS:**  O primeiro capítulo é mais conceitual por isso já começa no segundo.
 
 
 
