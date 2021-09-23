@@ -2,7 +2,7 @@ package cap02;
 
 import java.util.Scanner; // inprtação do scanner
 
-public class EntradaSaida {
+public class P0204EntradaSaida {
 	
 	public static void main(String[] args) {
 		

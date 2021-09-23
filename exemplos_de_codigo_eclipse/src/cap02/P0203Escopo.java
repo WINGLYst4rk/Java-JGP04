@@ -1,6 +1,6 @@
 package cap02;
 
-public class Escopo {
+public class P0203Escopo {
 
 	public static void main (String args[]) { // inicio bloco 1
 		

@@ -2,7 +2,7 @@ package cap02;
 
 import java.util.Scanner;
 
-public class SaidaFormatada {
+public class P0205SaidaFormatada {
 
 	public static void main(String[] args) {
 

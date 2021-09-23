@@ -1,6 +1,6 @@
 package cap02;
 
-public class Aritmetica {
+public class P0206Aritmetica {
 	
 	public static void main(String[] args) {
 		

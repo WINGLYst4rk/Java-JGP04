@@ -1,6 +1,6 @@
 package cap02;
 
-public class Eco {
+public class P0202Eco {
 	
 	public static void main(String args[]) {
 		
